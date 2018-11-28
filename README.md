@@ -1,4 +1,4 @@
-# Book App class work
+# Book App
 This is a practice application 
 ## Used frameworks & Database
 jQuery  
